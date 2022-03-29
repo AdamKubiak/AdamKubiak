@@ -27,7 +27,7 @@ ___
 ___
 | **Main projects** | _Description_                                        | _Stack_                       |
 | :---------------- | :--------------------------------------------------- | :---------------------------- |
-| [SCARA Robot]     | Robot arm with  window application that provides user friendly experience      | `QT`,`QT3D`, `STM32`, `HAL`   |
+| [SCARA Robot]     | Robotic arm with  window application that provides user friendly experience      | `QT`,`QT3D`, `STM32`, `HAL`   |
 
                       
 
