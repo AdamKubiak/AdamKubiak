@@ -27,9 +27,8 @@ ___
 ___
 | **Main projects** | _Description_                                        | _Stack_                       |
 | :---------------- | :--------------------------------------------------- | :---------------------------- |
-| [SCARA Robot]     | Programmable, fully custumizable robot arm with      | `QT`,`QT3D`, `STM32`, `HAL`   |
-|                   | window application providing user friendly experience|                               |
-|                   | for visualizing sensory data and controlling robot   |                               |
+| [SCARA Robot]     | Robot arm with  window application that provides user friendly experience      | `QT`,`QT3D`, `STM32`, `HAL`   |
+
                       
 
 [SCARA Robot]: https://github.com/AdamKubiak/SCARA-PROJECT
